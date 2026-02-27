@@ -40,6 +40,10 @@ cursor-clone/
 
 ---
 
+## 🚀 Live Demo
+
+[View Live Project](https://deepaks0611.github.io/cursor/)
+
 ## 🚀 Getting Started
 
 No build tools needed. Just open `index.html` in your browser:
